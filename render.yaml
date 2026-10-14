@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: dkane-vip
-    runtime: static
-    buildCommand: ""
-    staticPublishPath: .
