@@ -1,17 +1,16 @@
-# DKane VIP Landing Page v4
+# DKane VIP Landing Page v5
 
-Top banner:
-It's R150 to join our VIP group
+Changes in this version:
+- Smaller but still bold VIP price banner
+- Added a scroll-down arrow and “Scroll down for apps”
+- Added the provided app icons next to each app name
+- Kept the TikTok instructions and WhatsApp VIP flow
 
-Main VIP number:
-27822861177
-
-TikTok flow:
-1. Tap the ⋯ menu on the top-right.
-2. Choose Open in browser.
-3. Tap Continue to WhatsApp.
-
-App download links:
-- UK49 AI
-- Diski AI
-- Aliden AI
+Files included:
+- index.html
+- style.css
+- render.yaml
+- README.md
+- uk49-icon.png
+- diski-icon.png
+- aliden-icon.png
