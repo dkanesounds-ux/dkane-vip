@@ -1,23 +1,21 @@
-# DKane VIP Landing Page
+# DKane VIP Landing Page v2
 
-Main action:
-- Join VIP on WhatsApp: 27822861177
+This version explains TikTok's browser limitation before sending users to WhatsApp.
 
-App download links:
+Main VIP number:
+27822861177
+
+Main flow:
+1. TikTok user opens this landing page.
+2. User taps TikTok browser menu (⋯).
+3. User chooses Open in browser.
+4. User taps Continue to WhatsApp.
+
+App links:
 - UK49 AI
 - Diski AI
 - Aliden AI
 
-## Deploy on Render
-1. Create a GitHub repository.
-2. Upload:
-   - index.html
-   - style.css
-   - render.yaml
-3. In Render choose New + -> Static Site.
-4. Connect the GitHub repository.
-5. Leave Build Command blank.
-6. Set Publish Directory to `.`
-7. Deploy.
-
-Use the Render URL in TikTok.
+To update:
+Replace index.html and style.css in the GitHub repository.
+Render should redeploy automatically.
