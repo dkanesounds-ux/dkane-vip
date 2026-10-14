@@ -1,21 +1,17 @@
-# DKane VIP Landing Page v2
+# DKane VIP Landing Page v4
 
-This version explains TikTok's browser limitation before sending users to WhatsApp.
+Top banner:
+It's R150 to join our VIP group
 
 Main VIP number:
 27822861177
 
-Main flow:
-1. TikTok user opens this landing page.
-2. User taps TikTok browser menu (⋯).
-3. User chooses Open in browser.
-4. User taps Continue to WhatsApp.
+TikTok flow:
+1. Tap the ⋯ menu on the top-right.
+2. Choose Open in browser.
+3. Tap Continue to WhatsApp.
 
-App links:
+App download links:
 - UK49 AI
 - Diski AI
 - Aliden AI
-
-To update:
-Replace index.html and style.css in the GitHub repository.
-Render should redeploy automatically.
